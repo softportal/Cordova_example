@@ -20,14 +20,15 @@
 # CONTENT:
 
 Aplicación cordova basica usando la plataforma android:
-    * Aplicación con un menu básico (html + css) para probar las diferentes opciones:
-        - Home: Portada de prueba usando cordova html.
-        - test: Vista básica con botones con motivo de debug, usa plugins como hello world, o network information
-                para comprobar la conexión.
-        - Geo : LLamada al plugin geolocation y mostrando su valor por pantalla.
-        - map : Mapa renderizado por google maps usando el plugin Geolocation para mostrar la ubicación usando una
-                animación.
-        - hide: Lógica básica para la vista de la aplicación que se dedica a mostrar y ocultar paneles.
+
+* Aplicación con un menu básico (html + css) para probar las diferentes opciones:
+    - Home: Portada de prueba usando cordova html.
+    - test: Vista básica con botones con motivo de debug, usa plugins como hello world, o network information
+            para comprobar la conexión.
+    - Geo : LLamada al plugin geolocation y mostrando su valor por pantalla.
+    - map : Mapa renderizado por google maps usando el plugin Geolocation para mostrar la ubicación usando una
+            animación.
+    - hide: Lógica básica para la vista de la aplicación que se dedica a mostrar y ocultar paneles.
 
 
 
